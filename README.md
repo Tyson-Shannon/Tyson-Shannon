@@ -3,7 +3,7 @@
 - 👀 I’m interested in programming, hardware, cyber security, and pentesting
 - 🌱 I’m currently developing my python app [berryTV](https://github.com/Tyson-Shannon/berryTV)
 - 🔎 I’m looking for fun and exciting oppurtunities to learn and code
-- 📫 How to reach me: tyson.shannon@mnsu.edu
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/tyson-shannon-a56458276)
 
 <!---
 Tyson-Shannon/Tyson-Shannon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
