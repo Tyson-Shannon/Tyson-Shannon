@@ -1,7 +1,19 @@
 # 👋 Hi, I’m Tyson Shannon ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Tyson-Shannon.Tyson-Shannon)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tyson-Shannon&theme=tokyonight)](https://git.io/streak-stats) <br/>
-[![Tyson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tyson-Shannon&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tyson-Shannon&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Tyson-Shannon&theme=tokyonight" alt="GitHub Streak"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tyson-Shannon&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyson-Shannon&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  </a>
+</p>
 
 ## Who am I?
 I'm a Canadian computer information technology student at MNSU Mankato **(graduating May 2026)** with a focus in software development and cyber security <br/>
@@ -14,17 +26,48 @@ I'm currently teaching myself TypeScript and Web3 technologies <br/>
 I'm currently learning intro to networking, database management systems, software quality assurance and testing, web application design and development, human computer interaction, and computers in society at MNSU <br/>
 
 ## What I know?
-| **My Code Stack Includes:** | **My Tech Stack Includes:** |
-|-----------------------------|-----------------------------|
-| Python                      | TensorFlow                  |
-| Java                        | GitHub                      |
-| C/C++                       | Linux                       |
-| Ruby                        | VirtualBox                  |
-| Go                          | VS Code                     |
-| R                           | RStudio                     |
-| SQL                         | MySQL                       |
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>My Code Stack Includes:</strong></th>
+      <th><strong>My Tech Stack Includes:</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Python</td>
+      <td>TensorFlow</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>GitHub</td>
+    </tr>
+    <tr>
+      <td>C/C++</td>
+      <td>Linux</td>
+    </tr>
+    <tr>
+      <td>Ruby</td>
+      <td>VirtualBox</td>
+    </tr>
+    <tr>
+      <td>Go</td>
+      <td>VS Code</td>
+    </tr>
+    <tr>
+      <td>R</td>
+      <td>RStudio</td>
+    </tr>
+    <tr>
+      <td>SQL</td>
+      <td>MySQL</td>
+    </tr>
+  </tbody>
+</table>
+<strong>+ much more</strong>
+</div>
 
-**+ much more**
 
 ## How am I contacted?
 **Location:** Greater Toronto Area, Ontario, Canada, North America, Earth, Milky Way Galaxy, Universe <br/>
