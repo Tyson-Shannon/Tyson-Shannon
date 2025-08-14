@@ -18,10 +18,10 @@
 ## Who am I?
 I'm a Canadian computer information technology student at MNSU Mankato **(graduating May 2026)** with a focus in software development and cyber security <br/>
 
-## What I'm doing?
+## What am I doing?
 I’m currently developing my python app [berryTV](https://github.com/Tyson-Shannon/berryTV) and exploring various new project ideas <br/>
 
-## What I'm learning?
+## What am I learning?
 I'm currently teaching myself TypeScript and Web3 technologies <br/>
 I'm currently learning intro to networking, database management systems, software quality assurance and testing, web application design and development, human computer interaction, and computers in society at MNSU <br/>
 
