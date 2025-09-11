@@ -22,7 +22,7 @@ I'm a Canadian computer information technology student at MNSU Mankato **(gradua
 I’m currently developing my python app [berryTV](https://github.com/Tyson-Shannon/berryTV) and exploring various new project ideas <br/>
 
 ## What am I learning?
-I'm currently teaching myself TypeScript and Web3 technologies <br/>
+I'm currently teaching myself TypeScript, React, and Web3 technologies through my project [UNet](https://github.com/Tyson-Shannon/UNet) <br/>
 I'm currently learning intro to networking, database management systems, software quality assurance and testing, web application design and development, human computer interaction, and computers in society at MNSU <br/>
 
 ## What I know?
