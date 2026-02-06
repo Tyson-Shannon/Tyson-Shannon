@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Tyson Shannon ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Tyson-Shannon.Tyson-Shannon)
+# 👋 Hi, I’m [Tyson Shannon](https://tysonshannon.ca/) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Tyson-Shannon.Tyson-Shannon)
 
 <p align="center">
   <a href="https://git.io/streak-stats">
