@@ -1,13 +1,11 @@
 # 👋 Hi, I’m [Tyson Shannon](https://tysonshannon.ca/) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Tyson-Shannon.Tyson-Shannon)
 
-![Stats](./profile/stats.svg) <br/>
-![Top Languages](./profile/top-langs.svg)
-
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Tyson-Shannon&theme=tokyonight" alt="GitHub Streak"/>
-  </a>
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <br/>
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
+
 
 ## Who am I?
 I'm a Canadian computer information technology student at MNSU Mankato **(graduating May 2026)** with a focus in software development and cyber security <br/>
@@ -66,6 +64,7 @@ I'm currently learning intro to networking, database management systems, softwar
 **Location:** Greater Toronto Area, Ontario, Canada, North America, Earth, Milky Way Galaxy, Universe <br/>
 **Public Contact:** tyshannon.dev@outlook.com <br/>
 **Social Media:** [LinkedIn](https://www.linkedin.com/in/tyson-shannon-a56458276/) <br/>
+**Website:** [https://tysonshannon.ca/](https://tysonshannon.ca/)
 
 <!---
 Tyson-Shannon/Tyson-Shannon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
