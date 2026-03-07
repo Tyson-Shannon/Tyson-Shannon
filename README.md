@@ -61,7 +61,7 @@ I'm currently learning intro to networking, database management systems, softwar
 
 
 ## How am I contacted?
-**Location:** Greater Toronto Area, Ontario, Canada, North America, Earth, Milky Way Galaxy, Universe <br/>
+**Location:** Greater Toronto Area, Ontario, Canada <br/>
 **Public Contact:** tyshannon.dev@outlook.com <br/>
 **Social Media:** [LinkedIn](https://www.linkedin.com/in/tyson-shannon-a56458276/) <br/>
 **Website:** [https://tysonshannon.ca/](https://tysonshannon.ca/)
