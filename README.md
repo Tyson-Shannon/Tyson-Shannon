@@ -8,7 +8,7 @@
 
 
 ## Who am I?
-I'm a Canadian Jr. Developer with a experience in software development and cyber security <br/>
+I'm a Canadian Developer with a experience in software development and cyber security <br/>
 
 ## What am I doing?
 I'm currently using TypeScript, React, Python, and Web3.0 technologies to build a new video sharing platform in [UNet](https://github.com/Tyson-Shannon/UNet) and [TNet](https://github.com/Tyson-Shannon/TNet) <br/>
@@ -40,16 +40,16 @@ I'm currently using TypeScript, React, Python, and Web3.0 technologies to build 
       <td>VirtualBox</td>
     </tr>
     <tr>
-      <td>Go</td>
+      <td>Rust</td>
       <td>VS Code</td>
     </tr>
     <tr>
-      <td>R</td>
-      <td>RStudio</td>
+      <td>NodeJS</td>
+      <td>OpenCode</td>
     </tr>
     <tr>
       <td>SQL</td>
-      <td>MySQL</td>
+      <td>MS SQL</td>
     </tr>
   </tbody>
 </table>
@@ -58,7 +58,7 @@ I'm currently using TypeScript, React, Python, and Web3.0 technologies to build 
 
 
 ## How am I contacted?
-**Location:** Greater Toronto Area, Ontario, Canada <br/>
+**Location:** Toronto, Ontario, Canada <br/>
 **Public Contact:** tyshannon.dev@outlook.com <br/>
 **Social Media:** [LinkedIn](https://www.linkedin.com/in/tyson-shannon-a56458276/) <br/>
 **Website:** [https://tysonshannon.ca/](https://tysonshannon.ca/)
