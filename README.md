@@ -59,10 +59,11 @@ I'm currently using TypeScript, React, Python, and Web3.0 technologies to build 
 
 ## How am I contacted?
 **Location:** Toronto, Ontario, Canada <br/>
-**Public Contact:** tyshannon.dev@outlook.com <br/>
+**Public Contact:*** tyshannon.dev@outlook.com <br/>
 **Social Media:** [LinkedIn](https://www.linkedin.com/in/tyson-shannon-a56458276/) <br/>
-**Website:** [https://tysonshannon.ca/](https://tysonshannon.ca/)
+**Website:** [https://tysonshannon.ca/](https://tysonshannon.ca/) <br/><br/>
 
+*public email checked irregularly, messages with links or attachments will be deleted
 <!---
 Tyson-Shannon/Tyson-Shannon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
